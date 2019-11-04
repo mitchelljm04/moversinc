@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Movers Inc.</title>
+    <style>
+     a.link {
+       text-decoration:none;
+      }
+   div.fixed {
+        position: fixed;
+        bottom: 0;
+        left: 200;
+        width: 300px;
+    }
+    body {
+        background-color: grey;
+        background-size:cover;
+      }
+    img {
+      display:block;
+      margin-left:auto;
+      margin-right:auto;
+    }
+    h1 {
+      display:block;
+      text-align:center;
+      align:center;
+      border-style:solid;
+      border-color:MediumSeaGreen;
+      background-color:white;
+      margin:auto;
+      width:850px;
+      color:MediumSeaGreen;
+    }
+    h2 {
+      display:block;
+      text-align:center;
+      align:center;
+      border-style:solid;
+      border-color:MediumSeaGreen;
+      background-color:white;
+      margin:auto;
+      width:850px;
+      color:black;
+      text-size:22px;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="moversinc.png"alt="banner">
+        <table id="nav-table" align="center">
+      <tr>
+        <td><a href="https://mitchelljm04.github.io/inventory.html"><img src="inventory.png"></a>
+        </td>
+          <td><a href="https://mitchelljm04.github.io/javascript.html"><img src="contacts.png"></a>
+          </td>
+          <td><a href="https://mitchelljm04.github.io/aboutme.html"><img src="requests.png"></a>
+          </td>
+      </tr>
+    </table>
+  <h1>Movers Inc.</h1>
